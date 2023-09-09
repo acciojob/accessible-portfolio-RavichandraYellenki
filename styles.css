@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+h1{
+	text-align: center;
+}
+nav{
+	border: 2px solid aqua;
+	padding: 1rem;
+	background-color: beige;
+	
+}
+.list1{
+	display: inline;
+	margin: 20px;
+}
+a{
+	text-decoration: none;
+}
+div{
+	margin: 20px;
+}
